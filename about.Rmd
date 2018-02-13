@@ -1,0 +1,5 @@
+---
+title: "About This Website"
+---
+
+This was made for my data sciences class. ^Rad^, huh?

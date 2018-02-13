@@ -1,0 +1,11 @@
+---
+title: "CLAIRE"
+---
+
+Hello, visitor!
+
+```{r}
+sure<-c(0,18,21,32)
+why<-c(5,10,15,20)
+plot(sure,why)
+```
