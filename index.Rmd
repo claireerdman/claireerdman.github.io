@@ -1,11 +1,17 @@
 ---
-title: "CLAIRE"
+title: "Greetings!"
 ---
 
-Hello, visitor!
+Hello, visitor! This website is for my Data Sciences class. ^Rad^, huh? Here are a few of my favorite quotes:
 
-```{r}
-sure<-c(0,18,21,32)
-why<-c(5,10,15,20)
-plot(sure,why)
-```
+
+
+*Every saint has a past and every sinner has a future* -Oscar Wilde
+
+*Don't call me a saint, I refuse to be dismissed so easily.* -Dorothy Day
+
+<figure>
+<img src="claire2.jpg"
+style = "height:500px;">
+
+

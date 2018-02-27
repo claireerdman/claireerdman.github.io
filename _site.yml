@@ -1,16 +1,18 @@
 name: my-website
 navbar:
-  title: My Website
+  title: ""
   left:
-  - text: Home
+  - text: home
     href: index.html
-  - text: About
+  - text: about
     href: about.html
+  - text: Seventh Generation
+    href: seventhgeneration.html
 output:
   html_document:
     theme: flatly
     highlight: tango
     lib_dir: site_libs
     self_contained: no
-output_dir: _site
+output_dir: "."
 

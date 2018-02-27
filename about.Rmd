@@ -1,5 +1,9 @@
 ---
-title: "About This Website"
+title: "About ME"
 ---
 
-This was made for my data sciences class. ^Rad^, huh?
+My name is **Claire**. I am a senior at App State, and have enjoyed my 4 years in Boone! I am a business managment major with a minor in statistics. I want to go into the non-profit sector, and am currently an intern at a local non-profit. I am also interested in companies that do good, even for a profit. An example of one that I particularly like can be found in the **Seventh Generation** tab. 
+
+<figure>
+<img src="claire.jpg"
+style = "height:600px;">
